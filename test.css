@@ -1,0 +1,33 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.row{
+
+
+}
+.col{
+  float: left;
+}
+.col-four{
+  width: 25%;
+}
+.col-thir{
+  width: calc(100%/3);
+}
+.main{
+}
+.sanpham{
+  text-align: center;
+  padding: 10px;
+}
+.img1{
+  max-width: 95%;
+}
+.ten{
+
+}
+.gia{
+
+}
